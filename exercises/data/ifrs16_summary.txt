@@ -1,0 +1,550 @@
+IFRS 16 LEASES — TECHNICAL REFERENCE DOCUMENT
+Prepared for internal training purposes
+Version 1.0 | Financial Reporting Advisory Group
+
+================================================================================
+1. INTRODUCTION AND SCOPE
+================================================================================
+
+IFRS 16 Leases was issued by the International Accounting Standards Board (IASB)
+in January 2016 and became effective for annual reporting periods beginning on or
+after 1 January 2019. It replaced IAS 17 Leases, IFRIC 4 Determining Whether an
+Arrangement Contains a Lease, SIC-15 Operating Leases — Incentives, and SIC-27
+Evaluating the Substance of Transactions Involving the Legal Form of a Lease.
+
+The core objective of IFRS 16 is to ensure that lessees and lessors provide
+relevant information in a manner that faithfully represents lease transactions.
+This information gives users of financial statements a basis to assess the effect
+that leases have on the financial position, financial performance, and cash flows
+of the entity.
+
+IFRS 16 applies to all leases, including leases of right-of-use assets in a
+sublease, with the following exceptions:
+
+  - Leases to explore for or use minerals, oil, natural gas, and similar
+    non-regenerative resources.
+  - Leases of biological assets within the scope of IAS 41 Agriculture held by
+    a lessee.
+  - Service concession arrangements within the scope of IFRIC 12.
+  - Licences of intellectual property granted by a lessor within the scope of
+    IFRS 15 Revenue from Contracts with Customers.
+  - Rights held by a lessee under licensing agreements for items such as motion
+    picture films, video recordings, plays, manuscripts, patents, and copyrights
+    within the scope of IAS 38 Intangible Assets.
+
+Two practical expedients are available to lessees:
+
+  (a) Short-term leases: A lessee may elect, by class of underlying asset, not
+      to apply the recognition requirements to leases with a lease term of twelve
+      months or less. In this case, the lessee recognises the lease payments
+      associated with those leases as an expense on a straight-line basis over
+      the lease term or another systematic basis.
+
+  (b) Leases of low-value assets: A lessee may elect, on a lease-by-lease basis,
+      not to apply the recognition requirements to leases for which the underlying
+      asset is of low value. The IASB had in mind assets with a value, when new,
+      in the range of USD 5,000 or less (e.g., tablet computers, personal
+      computers, small items of office furniture, and telephones). This assessment
+      is made in absolute terms regardless of the size, nature, or circumstances
+      of the lessee.
+
+================================================================================
+2. IDENTIFYING A LEASE
+================================================================================
+
+A contract contains a lease if it conveys the right to control the use of an
+identified asset for a period of time in exchange for consideration.
+
+The identification of a lease requires assessment of whether:
+
+2.1 There is an identified asset
+
+An asset is typically identified by being explicitly specified in a contract.
+However, an asset can also be identified by being implicitly specified at the
+time it is made available for use by the customer. A capacity portion of a larger
+asset is an identified asset only if it is physically distinct (for example, a
+floor of a building).
+
+A customer does not have the right to use an identified asset if the supplier has
+a substantive substitution right throughout the period of use. A substitution
+right is substantive only if the supplier has the practical ability to substitute
+alternative assets throughout the period of use, and the supplier would benefit
+economically from exercising its right to substitute the asset.
+
+2.2 The customer has the right to obtain substantially all of the economic
+    benefits from use of the asset
+
+A customer has the right to obtain substantially all of the economic benefits
+from use of the identified asset if it has the right to those benefits throughout
+the period of use within the defined scope of its right to use the asset (e.g.,
+within a specified geographical area or a specified time period).
+
+2.3 The customer has the right to direct the use of the asset
+
+A customer has the right to direct the use of an identified asset throughout the
+period of use when either:
+
+  (a) The customer has the right to direct how and for what purpose the asset
+      is used throughout the period of use; or
+
+  (b) The relevant decisions about how and for what purpose the asset is used are
+      predetermined and the customer has the right to operate the asset
+      throughout the period of use without the supplier having the right to
+      change those operating instructions; or
+
+  (c) The customer designed the asset in a way that predetermines how and for
+      what purpose the asset will be used.
+
+================================================================================
+3. LESSEE ACCOUNTING MODEL
+================================================================================
+
+3.1 Initial Recognition and Measurement
+
+At the commencement date, a lessee shall recognise a right-of-use (ROU) asset
+and a lease liability.
+
+Lease Liability — Initial Measurement
+
+The lease liability is measured at the present value of lease payments not paid
+at the commencement date. Lease payments included in the measurement are:
+
+  (a) Fixed payments (including in-substance fixed payments), less any lease
+      incentives receivable.
+  (b) Variable lease payments that depend on an index or a rate (initially
+      measured using the index or rate at the commencement date).
+  (c) Amounts expected to be payable under residual value guarantees.
+  (d) The exercise price of a purchase option if the lessee is reasonably certain
+      to exercise that option.
+  (e) Payments of penalties for terminating the lease, if the lease term reflects
+      the lessee exercising the option to terminate.
+
+The lease payments shall be discounted using the interest rate implicit in the
+lease (IRIIL), if that rate can be readily determined. If that rate cannot be
+readily determined, the lessee shall use the lessee's incremental borrowing rate
+(IBR). The IBR is the rate of interest that a lessee would have to pay to borrow,
+over a similar term, with a similar security, the funds necessary to obtain an
+asset of a similar value to the right-of-use asset in a similar economic
+environment.
+
+Determination of the IBR is one of the most judgement-intensive aspects of IFRS
+16 implementation. Entities typically consider:
+
+  - The lessee's credit rating and credit spreads.
+  - Risk-free rates in the applicable currency and tenor.
+  - Collateralised vs. uncollateralised rates, with an adjustment for the
+    collateralised nature of the lease (the asset itself provides implicit
+    collateral).
+  - Country/currency risk where operations span multiple jurisdictions.
+  - A portfolio approach is generally permitted where leases have similar
+    characteristics.
+
+Right-of-Use Asset — Initial Measurement
+
+The ROU asset is measured at cost, comprising:
+
+  (a) The initial measurement of the lease liability.
+  (b) Lease payments made at or before the commencement date, less any lease
+      incentives received.
+  (c) Initial direct costs incurred by the lessee.
+  (d) An estimate of costs to dismantle and remove the underlying asset or restore
+      the site, recognised as a provision under IAS 37.
+
+3.2 Subsequent Measurement
+
+Lease Liability — Subsequent Measurement
+
+After the commencement date, the lease liability is measured by:
+
+  (a) Increasing the carrying amount to reflect interest on the lease liability
+      (using the effective interest method at a constant periodic rate of interest
+      applied to the remaining balance of the lease liability).
+  (b) Reducing the carrying amount to reflect lease payments made.
+  (c) Remeasuring the carrying amount to reflect reassessments or lease
+      modifications, or to reflect revised in-substance fixed lease payments.
+
+Right-of-Use Asset — Subsequent Measurement
+
+A lessee measures the ROU asset applying a cost model unless it applies one of
+the measurement models described below:
+
+  Cost Model: The lessee measures the ROU asset at cost less accumulated
+  depreciation and accumulated impairment losses, and adjusted for remeasurements
+  of the lease liability.
+
+  Revaluation Model: If the ROU asset relates to a class of property, plant and
+  equipment to which the lessee applies the revaluation model in IAS 16, the
+  lessee may elect to apply that revaluation model to all ROU assets relating to
+  that class.
+
+  Fair Value Model: If the ROU asset meets the definition of investment property
+  and the lessee applies the fair value model in IAS 40, the lessee shall apply
+  that fair value model.
+
+Depreciation of the ROU asset follows IAS 16 requirements. If the lease
+transfers ownership of the underlying asset to the lessee by the end of the lease
+term, or the cost of the ROU asset reflects that the lessee will exercise a
+purchase option, the lessee shall depreciate the ROU asset from the commencement
+date to the end of the useful life of the underlying asset. Otherwise, the lessee
+shall depreciate the ROU asset from the commencement date to the earlier of the
+end of the useful life of the ROU asset or the end of the lease term.
+
+================================================================================
+4. LEASE TERM AND OPTIONS
+================================================================================
+
+The lease term is the non-cancellable period for which a lessee has the right to
+use an underlying asset, together with both:
+
+  (a) Periods covered by an option to extend the lease if the lessee is
+      reasonably certain to exercise that option; and
+
+  (b) Periods covered by an option to terminate the lease if the lessee is
+      reasonably certain NOT to exercise that option.
+
+"Reasonably certain" is a high threshold, significantly higher than "more likely
+than not." In practice, entities consider:
+
+  - Contractual terms and conditions (e.g., relative to market terms, penalties).
+  - Significant leasehold improvements that would be lost upon non-renewal.
+  - The importance of the underlying asset to the lessee's operations.
+  - Costs associated with terminating the lease (dismantling, relocation).
+  - Historical lease renewal patterns and business planning assumptions.
+
+Reassessment of lease term is required upon the occurrence of a significant event
+or a significant change in circumstances that is within the control of the lessee
+and affects whether the lessee is reasonably certain to exercise an option not
+previously included in the determination of the lease term, or not to exercise an
+option previously included. Examples of triggering events include: significant
+leasehold improvements near the end of the non-cancellable period; subleasing;
+restructuring; disposal of an associated business.
+
+When the lease term is reassessed, the lessee shall remeasure the lease liability
+using a revised discount rate (the IBR at the date of reassessment, unless a
+change in the interest rate implicit in the lease can be readily determined).
+
+================================================================================
+5. LEASE MODIFICATIONS
+================================================================================
+
+A lease modification is a change in the scope of a lease, or the consideration
+for a lease, that was not part of the original terms and conditions of the lease.
+
+5.1 Modification Accounted for as a Separate Lease
+
+A lessee accounts for a lease modification as a separate lease if both:
+
+  (a) The modification increases the scope of the lease by adding the right to
+      use one or more underlying assets; and
+
+  (b) The consideration for the lease increases by an amount commensurate with
+      the stand-alone price for the increase in scope.
+
+5.2 Modifications Not Accounted for as a Separate Lease
+
+For modifications not treated as a separate lease, at the effective date of the
+modification, the lessee:
+
+  (a) Allocates the consideration in the modified contract applying paragraphs
+      12–16 of IFRS 16.
+  (b) Determines the lease term of the modified lease.
+  (c) Remeasures the lease liability by discounting the revised lease payments
+      using a revised discount rate.
+
+The accounting for the ROU asset depends on the nature of the modification:
+
+  - If the modification decreases the scope of the lease, the lessee decreases
+    the carrying amount of the ROU asset to reflect the partial or full
+    termination. Any difference between the adjustment to the lease liability and
+    the ROU asset is recognised in profit or loss.
+  - For all other modifications, the lessee adjusts the ROU asset by the amount
+    of the remeasurement of the lease liability.
+
+================================================================================
+6. VARIABLE LEASE PAYMENTS
+================================================================================
+
+Variable lease payments are payments made by a lessee to a lessor for the right
+to use an underlying asset that vary because of changes in facts or
+circumstances occurring after the commencement date (other than the passage of
+time).
+
+6.1 Index-linked or Rate-linked Payments
+
+These are included in the measurement of the lease liability (using the index or
+rate at commencement date). Subsequent changes in the index or rate result in
+remeasurement of the lease liability with a corresponding adjustment to the ROU
+asset when a reassessment event occurs or at least at the date of lease
+commencement (for future payments).
+
+6.2 Payments Linked to Performance or Usage
+
+Variable payments linked to performance or usage (e.g., a percentage of revenue
+generated from a retail location, payments per kilometre for a vehicle) are
+excluded from the lease liability. They are recognised in profit or loss in the
+period in which the event or condition that triggers those payments occurs. This
+represents a significant change from the IAS 17 treatment where such charges
+were sometimes included in minimum lease payments.
+
+6.3 In-Substance Fixed Payments
+
+Payments that appear variable but are in-substance unavoidable are treated as
+fixed payments. For example, a lease that requires payment of either EUR 10,000
+per month or 1% of monthly revenue, whichever is higher, effectively has a
+EUR 10,000 per month floor that is in-substance fixed.
+
+================================================================================
+7. LESSOR ACCOUNTING
+================================================================================
+
+Lessor accounting under IFRS 16 is substantially unchanged from IAS 17. Lessors
+continue to classify leases as either finance leases or operating leases.
+
+7.1 Finance Leases
+
+A lease is classified as a finance lease if it transfers substantially all the
+risks and rewards incidental to ownership of an underlying asset. Classification
+is made at inception of the lease.
+
+Situations that would normally lead to a finance lease classification include:
+
+  (a) The lease transfers ownership of the underlying asset to the lessee by the
+      end of the lease term.
+  (b) The lessee has the option to purchase the underlying asset at a price that
+      is expected to be sufficiently lower than fair value so that it is
+      reasonably certain the option will be exercised.
+  (c) The lease term is for the major part of the economic life of the underlying
+      asset even if title is not transferred.
+  (d) At the inception date, the present value of the lease payments amounts to
+      at least substantially all of the fair value of the underlying asset.
+  (e) The underlying asset is of such a specialised nature that only the lessee
+      can use it without major modifications.
+
+The lessor recognises a finance lease receivable at an amount equal to the net
+investment in the lease (present value of future lease payments plus any
+unguaranteed residual value accruing to the lessor). Interest income is
+recognised using the effective interest method over the lease term.
+
+7.2 Operating Leases
+
+A lessor continues to recognise the underlying asset and depreciates it in
+accordance with IAS 16 or IAS 38. Lease payments from operating leases are
+recognised as income on a straight-line basis or another systematic basis.
+
+================================================================================
+8. SALE AND LEASEBACK TRANSACTIONS
+================================================================================
+
+A sale and leaseback transaction involves the transfer of an asset by an entity
+(the seller-lessee) to another entity (the buyer-lessor) and the leaseback of
+that same asset by the seller-lessee.
+
+8.1 Determining Whether a Transfer is a Sale
+
+An entity applies the requirements of IFRS 15 to determine whether the transfer
+of an asset is accounted for as a sale of that asset.
+
+If the transfer is a sale:
+
+  - The seller-lessee measures the ROU asset arising from the leaseback at the
+    proportion of the previous carrying amount of the asset that relates to the
+    right of use retained. Accordingly, the seller-lessee recognises only the
+    amount of any gain or loss that relates to the rights transferred to the
+    buyer-lessor.
+  - The buyer-lessor accounts for the purchase applying applicable standards, and
+    for the lease applying the lessor accounting requirements of IFRS 16.
+
+If the transfer is not a sale (i.e., IFRS 15 criteria are not met):
+
+  - The seller-lessee continues to recognise the transferred asset and accounts
+    for the cash received as a financial liability under IFRS 9.
+  - The buyer-lessor does not recognise the transferred asset and accounts for
+    the cash paid as a financial asset under IFRS 9.
+
+================================================================================
+9. PRESENTATION AND DISCLOSURE
+================================================================================
+
+9.1 Balance Sheet (Statement of Financial Position)
+
+A lessee shall either present in the statement of financial position, or disclose
+in the notes:
+
+  - ROU assets separately from other assets (if not presented separately, the
+    lessee shall disclose which line items include ROU assets).
+  - Lease liabilities separately from other liabilities (if not presented
+    separately, the lessee shall disclose which line items include lease
+    liabilities).
+
+ROU assets for investment property shall be presented within investment property.
+
+9.2 Income Statement
+
+A lessee shall present interest expense on the lease liability separately from
+the depreciation charge for the ROU asset. Interest expense is presented within
+finance costs; depreciation is presented within operating profit. This results
+in a front-loaded expense profile compared to IAS 17 operating lease straight-
+line treatment — a point of particular significance for covenant compliance and
+for entities with large real estate or fleet portfolios.
+
+9.3 Cash Flow Statement
+
+  - Cash payments for the principal portion of lease liabilities: financing
+    activities.
+  - Cash payments for the interest portion of lease liabilities: either
+    operating or financing activities (applying IAS 7 choice, applied
+    consistently).
+  - Short-term lease payments, low-value asset lease payments, and variable
+    lease payments not included in the lease liability: operating activities.
+
+9.4 Disclosure Requirements for Lessees
+
+IFRS 16 requires extensive qualitative and quantitative disclosures:
+
+  Quantitative disclosures:
+  - Depreciation charge for ROU assets by class of underlying asset.
+  - Interest expense on lease liabilities.
+  - Expense relating to short-term leases.
+  - Expense relating to leases of low-value assets.
+  - Expense relating to variable lease payments.
+  - Income from subleasing ROU assets.
+  - Total cash outflow for leases.
+  - Additions to ROU assets.
+  - Carrying amount of ROU assets by class at period end.
+  - Maturity analysis of lease liabilities (undiscounted basis, split by year
+    for at least the first 5 years, then aggregate for all subsequent years).
+
+  Qualitative disclosures:
+  - Nature of the entity's leasing activities.
+  - Future cash outflows not reflected in lease liabilities (variable lease
+    payments, extension options not included in the lease term, termination
+    options, residual value guarantees).
+  - Restrictions or covenants imposed by leases.
+  - Sale and leaseback transactions.
+
+================================================================================
+10. TRANSITION PROVISIONS
+================================================================================
+
+Upon initial application of IFRS 16, entities were permitted to choose between:
+
+  (a) Full retrospective application: Restate all comparative periods as if IFRS
+      16 had always been applied. The cumulative effect recognised at the earliest
+      period presented.
+
+  (b) Modified retrospective application: No restatement of comparative periods.
+      The cumulative effect of initially applying IFRS 16 is recognised as an
+      adjustment to the opening balance of retained earnings (or other component
+      of equity, as appropriate) at the date of initial application.
+
+Under the modified retrospective approach, lessees were permitted to:
+
+  - Measure the ROU asset at an amount equal to the lease liability (adjusted for
+    prepaid or accrued lease payments).
+  - Measure the ROU asset at its carrying amount as if IFRS 16 had been applied
+    since commencement date (using the IBR at transition date).
+  - Apply a single discount rate to a portfolio of leases with similar
+    characteristics.
+  - Rely on the previous assessment of whether a lease is onerous immediately
+    before transition instead of performing an impairment review.
+  - Exclude initial direct costs from the measurement of the ROU asset at the
+    date of initial application.
+  - Use hindsight in determining the lease term if the contract contains options
+    to extend or terminate.
+
+================================================================================
+11. COMMON IMPLEMENTATION CHALLENGES
+================================================================================
+
+11.1 Data Collection and Completeness
+
+Many entities underestimated the volume of arrangements in scope. Contracts
+containing embedded leases (e.g., outsourcing arrangements, power purchase
+agreements, logistics contracts, IT hosting) required detailed assessment. A
+structured lease inventory process with a standard questionnaire across business
+units proved essential in most large implementations.
+
+11.2 Incremental Borrowing Rate Determination
+
+For groups operating across multiple currencies and jurisdictions, developing a
+consistent IBR framework was a significant exercise. Most large groups worked with
+treasury or external advisors to build a rate curve by currency, term, and credit
+profile. Rates require updating for new leases and for remeasurement events.
+
+11.3 System and Process Changes
+
+Legacy ERP systems (including earlier versions of SAP) were not designed to
+handle the continuous remeasurement and rollforward calculations required under
+IFRS 16. Dedicated lease accounting modules (SAP RE-FX / REFX, CoStar, LeaseQuery,
+Nakisa) were widely implemented. Integration with the consolidation system
+(including SAP BPC or SAP Group Reporting) required careful design, particularly
+for intercompany lease eliminations and currency retranslation.
+
+11.4 Intercompany Leases
+
+In consolidated financial statements, intercompany leases (e.g., a parent leasing
+an office building to a subsidiary) eliminate in full. However, the subsidiary
+continues to recognise the ROU asset and lease liability in its standalone
+financial statements. This creates a mismatch that must be managed in the
+consolidation journals. Where the parent and subsidiary have different functional
+currencies, the ROU asset and liability retranslate at different rates over time,
+generating currency translation differences that must be correctly attributed.
+
+11.5 Covenant Implications
+
+The capitalisation of operating leases significantly increased reported debt
+levels and assets. Net debt covenants, debt/EBITDA ratios, and return on assets
+metrics were all affected. Many entities renegotiated credit agreements ahead of
+IFRS 16 adoption. EBITDA itself was boosted (because operating lease expense
+moved out of EBITDA and into depreciation and interest below the line), while
+interest cover ratios tightened.
+
+11.6 Tax Treatment
+
+The tax treatment of IFRS 16 adjustments varies by jurisdiction. In many
+countries, tax deductions continue to be based on cash lease payments, creating
+deferred tax assets and liabilities. The unwinding of these deferred taxes must
+be projected and disclosed. Transfer pricing implications of intercompany leases
+also require attention, particularly where the lease terms were established under
+IAS 17 economics.
+
+================================================================================
+12. KEY DEFINITIONS SUMMARY
+================================================================================
+
+Commencement date: The date on which a lessor makes an underlying asset available
+for use by a lessee.
+
+Inception date: The earlier of the date of a lease agreement and the date of
+commitment by the parties to the principal terms of the lease.
+
+Interest rate implicit in the lease (IRIIL): The rate of interest that causes the
+present value of (a) the lease payments and (b) the unguaranteed residual value
+to equal the sum of (i) the fair value of the underlying asset and (ii) any
+initial direct costs of the lessor.
+
+Incremental borrowing rate (IBR): The rate of interest that a lessee would have
+to pay to borrow over a similar term, and with a similar security, the funds
+necessary to obtain an asset of a similar value to the right-of-use asset in a
+similar economic environment.
+
+Lease incentives: Payments made by a lessor to a lessee associated with a lease,
+or the reimbursement or assumption by a lessor of costs of a lessee.
+
+Lease modification: A change in the scope of a lease, or the consideration for a
+lease, that was not part of the original terms and conditions of the lease.
+
+Lease term: The non-cancellable period of a lease, together with both: periods
+covered by an option to extend the lease if the lessee is reasonably certain to
+exercise that option; and periods covered by an option to terminate the lease if
+the lessee is reasonably certain not to exercise that option.
+
+Right-of-use asset: An asset that represents a lessee's right to use an
+underlying asset for the lease term.
+
+Underlying asset: An asset that is the subject of a lease, for which the right
+to use that asset has been provided by a lessor to a lessee.
+
+================================================================================
+END OF DOCUMENT
+================================================================================
